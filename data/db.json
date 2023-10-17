@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to he hell",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, inventore minus labore eum commodi odio illo a aperiam aliquam beatae quis totam ad, libero deserunt esse cupiditate sapiente consequuntur doloribus<p>Lorem ipsum dolor ",
+            "tags": [
+                "webdev",
+                "codding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "welcome to he paradise",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, inventore minus labore eum commodi odio illo a aperiam aliquam beatae quis totam ad, libero deserunt esse cupiditate sapiente consequuntur doloribus<p>Lorem ipsum dolor ",
+            "tags": [
+                "math",
+                "geography",
+                "news"
+            ]
+        }
+    ] 
+}
